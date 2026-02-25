@@ -1,16 +1,25 @@
 # Hi, I'm Shahariar Hasan Limon! 
 
-###  MERN Full Stack Engineer |  Digital Marketer
+### MERN Stack Developer | AI Researcher | Meta Ads Specialist
 
-I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a solid foundation in Computer Science & Engineering. Beyond building robust, scalable applications, I bring a unique edge as a Digital Marketer. I don't just build products; I build products that grow. By combining technical architecture with data-driven marketing strategies, I bridge the gap between clean code and high conversion.
-
- **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
- **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
- **I’m looking to collaborate on:** Open-source backend tools or AI-driven security projects.
- **Ask me about:** REST APIs, MongoDB Aggregations, RBAC, and Audio Feature Extraction.
+As a **CSE graduate**, I bridge the gap between technical complexity and business growth. I don't just write code; I build intelligent, scalable systems designed to convert and perform.
 
 ---
 
+### 🛠 The Triple Threat
+- **Full-Stack Engineering:** Architecting robust web applications using the **MERN** stack (MongoDB, Express, React, Node).
+- **AI Research:** Investigating [Insert Interest: e.g., Predictive Modeling / NLP] to build smarter, data-driven software.
+- **Meta Marketing:** Scaling products through expert **Facebook & Instagram Ads**, Pixel integration, and CAPI (Conversions API) optimization.
+
+### 💻 My Technical Arsenal
+* **MERN Stack:** React.js, Next.js, Node.js, Express, MongoDB.
+* **Artificial Intelligence:** Python, PyTorch, Scikit-learn, Data Analysis.
+* **Growth & Performance:** Meta Ads Manager, CAPI, Technical SEO, A/B Testing.
+
+### 📈 Where My Worlds Collide
+I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
+
+---
 ###  Technical Arsenal
 
 | **Category** | **Technologies** |
