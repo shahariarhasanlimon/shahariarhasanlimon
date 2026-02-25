@@ -10,26 +10,20 @@ As a **CSE graduate**, I bridge the gap between technical complexity and busines
 - **Full-Stack Engineering:** Architecting robust web applications using the **MERN** stack (MongoDB, Express, React, Node).
 - **AI Research:** Investigating [Insert Interest: e.g., Predictive Modeling / NLP] to build smarter, data-driven software.
 - **Meta Marketing:** Scaling products through expert **Facebook & Instagram Ads**, Pixel integration, and CAPI (Conversions API) optimization.
-
-### 💻 My Technical Arsenal
-* **MERN Stack:** React.js, Next.js, Node.js, Express, MongoDB.
-* **Artificial Intelligence:** Python, PyTorch, Scikit-learn, Data Analysis.
-* **Growth & Performance:** Meta Ads Manager, CAPI, Technical SEO, A/B Testing.
-
-### 📈 Where My Worlds Collide
-I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
-
 ---
-###  Technical Arsenal
+### 🛠️ Technical Arsenal
 
-| **Category** | **Technologies** |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) |
-| **AI & ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Full-Stack (MERN)** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **AI Research** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Meta Marketing** | ![Meta](https://img.shields.io/badge/-Meta_Ads-0668E1?style=flat&logo=meta&logoColor=white) ![BusinessManager](https://img.shields.io/badge/-Ads_Manager-1877F2?style=flat&logo=facebook&logoColor=white) ![CAPI](https://img.shields.io/badge/-Conversions_API-4267B2?style=flat) ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) |
+| **CSE Fundamentals** | ![Data Structures](https://img.shields.io/badge/-DSA-FF4F8B?style=flat) ![Algorithms](https://img.shields.io/badge/-Algorithms-00A8E8?style=flat) ![OOP](https://img.shields.io/badge/-OOP-3DDC84?style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
+### 📈 Where My Worlds Collide
+I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
 
 ---
 
