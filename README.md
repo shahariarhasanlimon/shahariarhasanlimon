@@ -2,7 +2,7 @@
 
 ###  MERN Full Stack Engineer |  Digital Marketer
 
-I'm a dedicated backend developer specializing in Django, with expertise in HTML, CSS, JavaScript, and frontend libraries like Tailwind and Bootstrap. Currently, I'm expanding my knowledge by learning React. I have a strong passion for coding and constantly strive to improve my skills. In my free time, I enjoy exploring new technologies and working on personal projects. While I primarily work with Django, I also have a passion for working with the front-end technologies like JavaScript and ReactJS. I love solving real-life problems with my knowledge and always keep an end goal in mind in my professional endeavors.
+I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a solid foundation in Computer Science & Engineering. Beyond building robust, scalable applications, I bring a unique edge as a Digital Marketer. I don't just build products; I build products that grow. By combining technical architecture with data-driven marketing strategies, I bridge the gap between clean code and high conversion.
 
  **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
  **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
