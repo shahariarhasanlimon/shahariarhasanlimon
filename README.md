@@ -1,4 +1,4 @@
-# Hi there, I'm Shahariar Hasan Limon! 
+# Hi, I'm Shahariar Hasan Limon! 
 
 ###  MERN Full Stack Engineer |  Digital Marketer
 
