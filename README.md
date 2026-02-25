@@ -1,22 +1,12 @@
-# Hi, I'm Shahariar Hasan Limon! 
+# Hi, I'm Shahariar Hasan Limon! 👋
 
-### MERN Stack Developer | AI Researcher | Meta Ads Specialist
+### UIU CSE Undergraduate | MERN Stack Developer | AI Researcher | Meta Ads Specialist
 
-As a **CSE graduate**, I bridge the gap between technical complexity and business growth. I don't just write code; I build intelligent, scalable systems designed to convert and perform.
-
----
-### 🔭 What I’m Doing Currently
-*Keeping the saw sharp and the code clean.*
-
-* **Deepening AI Integration:** Researching ways to integrate **LLMs (Large Language Models)** into MERN applications to create more intuitive, "agentic" user interfaces.
-* **Advanced Tracking Systems:** Mastering **Server-Side GTM** implementations to bypass browser tracking limitations (iOS 14+) for high-scale e-commerce brands.
-* **Open Source Contribution:** Refactoring my **RecipeHub** backend to support microservices architecture for better scalability.
-* **Continuous Learning:** Diving deeper into **System Design** and **Advanced SQL** to complement my NoSQL expertise.
+As a **running CSE student at United International University**, I bridge the gap between academic research and real-world business growth. I don't just study algorithms; I build intelligent, scalable systems designed to convert and perform.
 
 ---
 
 ### 🔭 What I’m Doing Currently
-*Keeping the saw sharp and the code clean.*
 
 * **Deepening AI Integration:** Researching ways to integrate **LLMs (Large Language Models)** into MERN applications to create more intuitive, "agentic" user interfaces.
 * **Advanced Tracking Systems:** Mastering **Server-Side GTM** implementations to bypass browser tracking limitations (iOS 14+) for high-scale e-commerce brands.
