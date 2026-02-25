@@ -1,6 +1,6 @@
 # Hi there, I'm Shahariar Hasan Limon! 
 
-###  MERN Full Stack Engineer |  AI Digital Marketer
+###  MERN Full Stack Engineer |  Digital Marketer
 
 I'm a dedicated backend developer specializing in Django, with expertise in HTML, CSS, JavaScript, and frontend libraries like Tailwind and Bootstrap. Currently, I'm expanding my knowledge by learning React. I have a strong passion for coding and constantly strive to improve my skills. In my free time, I enjoy exploring new technologies and working on personal projects. While I primarily work with Django, I also have a passion for working with the front-end technologies like JavaScript and ReactJS. I love solving real-life problems with my knowledge and always keep an end goal in mind in my professional endeavors.
 
@@ -37,14 +37,17 @@ I'm a dedicated backend developer specializing in Django, with expertise in HTML
 ---
 
 ### Connect with Me
-<p align="left">
-  <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/shahariar-hasan-limon-b0232a1b3" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shahariarhasanlimon@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/shahariarhasanlimon" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="REPLACE_WITH_YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
