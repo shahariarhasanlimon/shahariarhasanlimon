@@ -2,7 +2,7 @@
 
 ###  MERN Full Stack Engineer |  AI Researcher
 
-I am a **Computer Science graduate** from United International University (UIU), specializing in building scalable **Backend Architectures** and researching **Deep Learning** solutions.
+I'm a dedicated backend developer specializing in Django, with expertise in HTML, CSS, JavaScript, and frontend libraries like Tailwind and Bootstrap. Currently, I'm expanding my knowledge by learning React. I have a strong passion for coding and constantly strive to improve my skills. In my free time, I enjoy exploring new technologies and working on personal projects. While I primarily work with Django, I also have a passion for working with the front-end technologies like JavaScript and ReactJS. I love solving real-life problems with my knowledge and always keep an end goal in mind in my professional endeavors.
 
  **I’m currently working on:** Deepfake Voice Detection Frameworks using **PyTorch** & **Transformers**.
  **I’m currently learning:** Agentic AI, Microservices, and Advanced System Design.
@@ -38,13 +38,13 @@ I am a **Computer Science graduate** from United International University (UIU),
 
 ### Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/md-mehedi-alam-nahi" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p align="center">
+  <a href="https://www.linkedin.com/in/shahariar-hasan-limon-b0232a1b3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nahimehedi@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shahariarhasanlimon@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mehedi-nahi.github.io/portfolio" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="REPLACE_WITH_YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="
 </p>
