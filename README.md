@@ -5,11 +5,24 @@
 As a **CSE graduate**, I bridge the gap between technical complexity and business growth. I don't just write code; I build intelligent, scalable systems designed to convert and perform.
 
 ---
+### 🔭 What I’m Doing Currently
+*Keeping the saw sharp and the code clean.*
 
-### 🛠 The Triple Threat
-- **Full-Stack Engineering:** Architecting robust web applications using the **MERN** stack (MongoDB, Express, React, Node).
-- **AI Research:** Investigating [Insert Interest: e.g., Predictive Modeling / NLP] to build smarter, data-driven software.
-- **Meta Marketing:** Scaling products through expert **Facebook & Instagram Ads**, Pixel integration, and CAPI (Conversions API) optimization.
+* **Deepening AI Integration:** Researching ways to integrate **LLMs (Large Language Models)** into MERN applications to create more intuitive, "agentic" user interfaces.
+* **Advanced Tracking Systems:** Mastering **Server-Side GTM** implementations to bypass browser tracking limitations (iOS 14+) for high-scale e-commerce brands.
+* **Open Source Contribution:** Refactoring my **RecipeHub** backend to support microservices architecture for better scalability.
+* **Continuous Learning:** Diving deeper into **System Design** and **Advanced SQL** to complement my NoSQL expertise.
+
+---
+
+### 🔭 What I’m Doing Currently
+*Keeping the saw sharp and the code clean.*
+
+* **Deepening AI Integration:** Researching ways to integrate **LLMs (Large Language Models)** into MERN applications to create more intuitive, "agentic" user interfaces.
+* **Advanced Tracking Systems:** Mastering **Server-Side GTM** implementations to bypass browser tracking limitations (iOS 14+) for high-scale e-commerce brands.
+* **Open Source Contribution:** Refactoring my **RecipeHub** backend to support microservices architecture for better scalability.
+* **Continuous Learning:** Diving deeper into **System Design** and **Advanced SQL** to complement my NoSQL expertise.
+
 ---
 ### 🛠️ Technical Arsenal
 
