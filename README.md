@@ -62,6 +62,13 @@ I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, Re
 
 ---
 
+### 🏆 Achievements & Motivation
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahariarhasanlimon&theme=discord&no-frame=true&no-bg=true" />
+</p>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
 ### 🔎 Let's Connect!
 <p align="left">
   <a href="https://github.com/shahariarhasanlimon" target="_blank">
@@ -76,26 +83,3 @@ I am a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, Re
 </p>
 
 ---
-
-### 🏆 Achievements & Motivation
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarhasanlimon&theme=discord&no-frame=true&no-bg=true" />
-</p>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-### Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahariar-hasan-limon-b0232a1b3" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shahariarhasanlimon@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shahariarhasanlimon" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="REPLACE_WITH_YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
