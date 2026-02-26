@@ -42,24 +42,29 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ---
 
-### 👨‍💻 Featured Projects
+### 🧪 Featured Projects
 
-#### 🚀 [RecipeHub](https://github.com/shahariarhasanlimon/RecipeHub_backend)
-*A sophisticated social platform for food enthusiasts.*
-- **Tech:** Django (DRF), React, WebSockets, SSLCommerz.
-- **Key Achievements:** Implemented real-time chat/notifications and a secure subscription system with JWT authentication.
+#### 🔊 [Deepfake Voice Detection (Thesis)](https://github.com/shahariarhasanlimon)
+*Deep Learning framework to identify synthetic audio artifacts.*
+* **Core:** Analyzes MFCCs and spectral features via PyTorch and Transformers to detect AI-generated audio.
+* **Tech:** Python, Librosa, PyTorch.
 
-#### 📝 [QuizZone](https://github.com/shahariarhasanlimon/quiz_zone_backend)
-*An automated examination and leaderboard platform.*
-- **Tech:** Django, Email-Auth, PostgreSQL.
-- **Key Achievements:** Built a secure student marking system with email verification and dynamic leaderboard rankings.
+#### 🥘 [RecipeHub - Microservices Social SaaS](https://github.com/shahariarhasanlimon/RecipeHub_backend)
+*A high-concurrency social platform for food enthusiasts.*
+* **Impact:** Implementing real-time WebSockets and refactoring to microservices for horizontal scaling.
+* **Tech:** Django (DRF), React, WebSockets, SSLCommerz.
+
+#### 📝 [QuizZone - Automated Examination](https://github.com/shahariarhasanlimon/quiz_zone_backend)
+*Secure, automated marking system with real-time leaderboards.*
+* **Impact:** Built a robust auth-to-email verification flow and dynamic PostgreSQL ranking algorithms.
+* **Tech:** Django, PostgreSQL, Email-Auth.
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical" height="175" />
 </p>
 
 <p align="center">
@@ -68,24 +73,16 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ---
 
-### 🏆 Achievements & Motivation
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarhasanlimon&theme=discord&no-frame=true&no-bg=true" />
-</p>
-
+### 🏆 Motivation & Philosophy
 > *"First, solve the problem. Then, write the code."* — John Johnson
+
+I believe the future belongs to the **"T-Shaped Engineer"**—someone with deep technical expertise in code who also understands the business metrics that code is meant to drive.
 
 ### 🔎 Let's Connect!
 <p align="left">
-  <a href="https://github.com/shahariarhasanlimon" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahariar-hasan-limon-b0232a1b3" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shahariarhasanlimon@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/shahariarhasanlimon"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahariar-hasan-limon-b0232a1b3"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shahariarhasanlimon@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
