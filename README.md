@@ -1,7 +1,7 @@
 # Hi, I'm Shahariar Hasan Limon! 👋
 
 <p align="center">
-  <img src="ChatGPT Image Feb 26, 2026, 12_36_20 PM.png" width="100%" />
+  <img src="GitHub_Cover.png.png" width="100%" />
 </p>
 
 ### MERN Stack Developer | AI Researcher | Meta Ads Specialist
