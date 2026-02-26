@@ -1,5 +1,3 @@
-# Hi, I'm Shahariar Hasan Limon! 👋
-
 <p align="center">
   <img src="GitHub_Cover.png" width="100%" />
 </p>
