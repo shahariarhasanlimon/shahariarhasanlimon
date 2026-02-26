@@ -63,14 +63,13 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Langs" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="Streak" />
 </p>
-
 ---
 
 ### 🏆 Motivation & Philosophy
