@@ -61,7 +61,12 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ---
 
-### Performance Metrics
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical" alt="Langs" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical" alt="Streak" />
 </p>
