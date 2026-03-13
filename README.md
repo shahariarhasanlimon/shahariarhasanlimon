@@ -5,6 +5,10 @@
 As a **running CSE student at United International University**, I bridge the gap between academic research and real-world business growth. I don't just study algorithms; I build intelligent, scalable systems designed to convert and perform.
 
 ---
+### 📈 Where My Worlds Collide
+I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
+
+---
 
 ### 🔭 What I’m Doing Currently
 
@@ -27,13 +31,19 @@ As a **running CSE student at United International University**, I bridge the ga
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&size_weight=0.5&count_weight=0.5&theme=radical)
 
---------------
-
 ---
-### 📈 Where My Worlds Collide
-I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
+### 📊 My GitHub Stats
 
----
+![Shahariar Hasan Limon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical)
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&Icon=FFFFFF"  alt="GitHub Contribution"/>
+
+-------------
+### ❤️‍🔥 My GitHub streak stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical) 
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+
+-------------
 
 ###  Key Projects
 
