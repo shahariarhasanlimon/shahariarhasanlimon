@@ -76,14 +76,6 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=12" alt="Streak" />
-</p>
-
----
-
 ### 🏆 Motivation & Philosophy
 
 I believe the future belongs to the **"T-Shaped Engineer"**—someone with deep technical expertise in code who also understands the business metrics that code is meant to drive. 
