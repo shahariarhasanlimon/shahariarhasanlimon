@@ -47,27 +47,11 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ###  Key Projects
 
-** E-Commerce Backend API**
-* **Tech:** Node.js, Express, MongoDB.
-* **Core:** Implemented **RBAC** (Role-Based Access Control), complex **Aggregation Pipelines** for product filtering, and **Indexing** for search optimization.
-
-** Deepfake Voice Detection (Thesis)**
-* **Tech:** Python, PyTorch, Librosa, Transformers.
-* **Core:** A deep learning framework analyzing MFCCs and spectral features to detect synthetic audio artifacts with high precision.
-
 ---
 
 ### 🧪 Featured Projects
 
-#### 🔊 [Deepfake Voice Detection (Thesis)](https://github.com/shahariarhasanlimon)
-*Deep Learning framework to identify synthetic audio artifacts.*
-* **Core:** Analyzes MFCCs and spectral features via PyTorch and Transformers to detect AI-generated audio.
-* **Tech:** Python, Librosa, PyTorch.
-
-#### 🥘 [RecipeHub - Microservices Social SaaS](https://github.com/shahariarhasanlimon/RecipeHub_backend)
-*A high-concurrency social platform for food enthusiasts.*
-* **Impact:** Implementing real-time WebSockets and refactoring to microservices for horizontal scaling.
-* **Tech:** Django (DRF), React, WebSockets, SSLCommerz.
+---
 
 #### 📝 [QuizZone - Automated Examination](https://github.com/shahariarhasanlimon/quiz_zone_backend)
 *Secure, automated marking system with real-time leaderboards.*
