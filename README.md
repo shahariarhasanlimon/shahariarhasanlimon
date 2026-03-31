@@ -12,3 +12,11 @@
 | **Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) |
 
 ---
+## 📊 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
