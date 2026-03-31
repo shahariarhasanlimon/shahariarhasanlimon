@@ -1,16 +1,7 @@
 # 👋 Hi, I'm Shahariar Hasan Limon
 ### 🚀 Full Stack Engineer | AI Researcher | Meta Ads Specialist
 
-<p align="left">
-  <a href="https://linkedin.com/in/shahariarhasanlimon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shahariarhasanlimon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+As a CSE student at **United International University**, I bridge the gap between academic research and real-world business growth. I don't just study algorithms; I build intelligent, scalable systems designed to perform.
 
 ### 🏆 Motivation & Philosophy
 
@@ -52,6 +43,18 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 * **Deepfake Voice Detection:** AI research project utilizing deep learning to identify synthetic audio.
 * **RecipeHub:** A social platform for food enthusiasts featuring real-time updates and secure JWT auth.
 * **QuizZone:** An automated examination system with dynamic leaderboard capabilities.
+
+---
+### Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/shahariarhasanlimon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shahariarhasanlimon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+---
 
 ---
 
