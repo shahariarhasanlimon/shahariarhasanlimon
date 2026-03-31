@@ -13,7 +13,6 @@
 ---
 
 ### 🏆 Motivation & Philosophy
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 I believe the future belongs to the **"Triple Threat" Engineer**—someone who masters deep technical code, pushes the boundaries of AI, and understands the business metrics that drive growth.
 
