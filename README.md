@@ -46,6 +46,9 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 <img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
 </a>
 </div>
+
+---
+
 ###  Key Projects
 
 ---
