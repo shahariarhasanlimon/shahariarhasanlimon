@@ -54,11 +54,7 @@ For me, code is a **tool for empowerment**. My approach focuses on:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
----
 
 ---
 
-### 🤝 Let's Connect!
-Whether you're looking to build a high-performance web app, integrate AI models, or scale your business through data-driven Meta marketing—let's talk.
 
----
