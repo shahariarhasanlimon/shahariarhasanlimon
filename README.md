@@ -4,6 +4,7 @@
 As a **running CSE student at United International University**, I bridge the gap between academic research and real-world business growth. I don't just study algorithms; I build intelligent, scalable systems designed to convert and perform.
 
 ---
+
 ### 📈 Where My Worlds Collide
 I specialize in **Technical Marketing Engineering**—using my CSE background to implement advanced tracking (Server-Side GTM), AI-driven audience segmentation, and high-converting landing pages.
 
