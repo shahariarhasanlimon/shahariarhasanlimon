@@ -1,5 +1,28 @@
-# Hi, I'm Shahariar Hasan Limon 
-### Full Stack Engineer | AI Researcher
+# 👋 Hi, I'm Shahariar Hasan Limon
+### 🚀 Full Stack Engineer | AI Researcher | Meta Ads Specialist
+
+<p align="left">
+  <a href="https://linkedin.com/in/shahariarhasanlimon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shahariarhasanlimon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🏆 Motivation & Philosophy
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+I believe the future belongs to the **"Triple Threat" Engineer**—someone who masters deep technical code, pushes the boundaries of AI, and understands the business metrics that drive growth.
+
+For me, code is a **tool for empowerment**. My approach focuses on:
+* **Engineering Excellence:** Building scalable architectures with **Python/Django** and **React** that solve real-world friction.
+* **AI Integration:** Implementing deep learning and research-driven solutions to create "smart" applications.
+* **Growth Logic:** Leveraging my expertise as a **Meta Ads Specialist** to ensure the products I build are optimized for high performance and measurable business impact.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -12,6 +35,7 @@
 | **Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) |
 
 ---
+
 ### 📊 GitHub Insights
 
 <p align="center">
@@ -25,9 +49,14 @@
 
 ---
 
-### 🔭 Current Focus
-- 🌐 Engineering high-performance Full-Stack applications.
-- 📱 Exploring **React Native** for cross-platform mobile experiences.
-- ⚡ Deep diving into **Serverless functions** and **Edge Computing**.
+### 🧪 Featured Projects
+* **Deepfake Voice Detection:** AI research project utilizing deep learning to identify synthetic audio.
+* **RecipeHub:** A social platform for food enthusiasts featuring real-time updates and secure JWT auth.
+* **QuizZone:** An automated examination system with dynamic leaderboard capabilities.
+
+---
+
+### 🤝 Let's Connect!
+Whether you're looking to build a high-performance web app, integrate AI models, or scale your business through data-driven Meta marketing—let's talk.
 
 ---
