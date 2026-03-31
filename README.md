@@ -30,6 +30,8 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 | **Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)|
 | **CSE Fundamentals** | ![Data Structures](https://img.shields.io/badge/-DSA-FF4F8B?style=flat) ![Algorithms](https://img.shields.io/badge/-Algorithms-00A8E8?style=flat) ![OOP](https://img.shields.io/badge/-OOP-3DDC84?style=flat) |
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&size_weight=0.5&count_weight=0.9&theme=radical)
 
 ---
