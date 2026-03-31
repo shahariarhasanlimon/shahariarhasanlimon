@@ -34,19 +34,40 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&size_weight=0.5&count_weight=0.9&theme=radical)
 
 ---
-### 📊 My GitHub Stats
+## 📈 Activity & Contribution Metrics
 
-![Shahariar Hasan Limon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical)
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&Icon=FFFFFF"  alt="GitHub Contribution"/>
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+</div>
+<br/>
 
--------------
-### ❤️‍🔥 My GitHub streak stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical) 
+<div align="center">
+<table>
+  <tr>
+    <td><img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
+    <td><img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
+    <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="General Stats" /></td>
+  </tr>
+</table>
+</div>
+<br/>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+<div align="center">
+  <a href="https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce">
+    <img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
+  </a>
+</div>
 
--------------
+---
 
+<div align="center">
+![GitHub Stats](https://streak-stats.demolab.com?user=shahariarhasanlimon&theme=default&hide_border=true)
+## 📌 Profile Views & Connections
+  
+![Visitors](https://komarev.com/ghpvc/?username=shahariarhasanlimon&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shahariarhasanlimon?style=for-the-badge&logo=github&color=2986cc)
+![Stars](https://img.shields.io/github/stars/shahariarhasanlimon?style=for-the-badge&logo=github&color=2986cc)
+  
 ###  Key Projects
 
 ---
