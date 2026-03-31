@@ -12,11 +12,22 @@
 | **Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) |
 
 ---
-## 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical)
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Langs" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="Streak" />
+</p>
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+### 🔭 Current Focus
+- 🌐 Engineering high-performance Full-Stack applications.
+- 📱 Exploring **React Native** for cross-platform mobile experiences.
+- ⚡ Deep diving into **Serverless functions** and **Edge Computing**.
+
+---
