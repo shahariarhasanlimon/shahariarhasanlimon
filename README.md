@@ -35,40 +35,20 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&size_weight=0.5&count_weight=0.9&theme=radical)
 
 ---
-## 📈 Activity & Contribution Metrics
-
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
-</div>
-<br/>
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
-    <td><img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
-    <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="General Stats" /></td>
-  </tr>
-</table>
-</div>
-<br/>
-
-<div align="center">
-  <a href="https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce">
-    <img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-![GitHub Stats](https://streak-stats.demolab.com?user=shahariarhasanlimon&theme=default&hide_border=true)
-## 📌 Profile Views & Connections
-  
-![Visitors](https://komarev.com/ghpvc/?username=shahariarhasanlimon&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/shahariarhasanlimon?style=for-the-badge&logo=github&color=2986cc)
-![Stars](https://img.shields.io/github/stars/shahariarhasanlimon?style=for-the-badge&logo=github&color=2986cc)
-  
+<a href="https://wakatime.com/@747764c1-1812-4199-a3fb-25cb1b7500ce">
+<img src="https://wakatime.com/badge/user/747764c1-1812-4199-a3fb-25cb1b7500ce.svg" alt="Wakatime Badge">
+</a>
+</div>
 ###  Key Projects
 
 ---
