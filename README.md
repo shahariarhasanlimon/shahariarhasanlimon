@@ -32,9 +32,6 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&size_weight=0.5&count_weight=0.9&theme=radical)
-
----
 ### 📊 GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
