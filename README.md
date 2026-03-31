@@ -12,10 +12,10 @@ I specialize in **Technical Marketing Engineering**—using my CSE background to
 
 ### 🔭 What I’m Doing Currently
 
-* **Deepening AI Integration:** Researching ways to integrate **LLMs (Large Language Models)** into MERN applications to create more intuitive, "agentic" user interfaces.
-* **Advanced Tracking Systems:** Mastering **Server-Side GTM** implementations to bypass browser tracking limitations (iOS 14+) for high-scale e-commerce brands.
-* **Open Source Contribution:** Refactoring my **RecipeHub** backend to support microservices architecture for better scalability.
-* **Continuous Learning:** Diving deeper into **System Design** and **Advanced SQL** to complement my NoSQL expertise.
+🤖 Integrating LLMs into MERN applications
+📊 Exploring Server-Side Tracking (GTM)
+⚙️ Building backend systems with Django & Node.js
+🧩 Improving database & system design skills
 
 ---
 
