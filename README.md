@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="GitHub_Cover.png" width="100%" />
-</p>
+# Hi, I'm Shahariar Hasan Limon!
+---
 
+### Full Stack Engineer | AI Researcher
 As a **running CSE student at United International University**, I bridge the gap between academic research and real-world business growth. I don't just study algorithms; I build intelligent, scalable systems designed to convert and perform.
 
 ---
