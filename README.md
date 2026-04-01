@@ -54,6 +54,10 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
   <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical&border_radius=10"" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="WakaTime Stats" />
+</p>
+
 ---
 
 ### 🧪 Featured Projects
