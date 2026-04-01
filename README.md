@@ -56,7 +56,7 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
+  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
 </p>
 
 <p align="center">
