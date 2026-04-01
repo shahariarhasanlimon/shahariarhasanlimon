@@ -38,7 +38,26 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 ### 📊 GitHub Insights
 
-### 📊 GitHub Insights
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="Overall GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10""/>
+</p>
+
+<p align="center">
+  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical&border_radius=10"" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="WakaTime Stats" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
@@ -49,20 +68,12 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" height="180" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=10"/>
-</p> -->
-
 <p align="center">
-  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10""/>
+  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical&border_radius=10"" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Activity Graph" />
 </p>
 
 <p align="center">
