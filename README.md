@@ -44,6 +44,7 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 <p align="center">
   <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
 </p>
+
 ---
 
 ### 🧪 Featured Projects
