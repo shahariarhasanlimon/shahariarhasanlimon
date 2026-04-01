@@ -28,10 +28,10 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 
 ### 📊 GitHub Insights
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" height="180px"/>
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=10"/>
