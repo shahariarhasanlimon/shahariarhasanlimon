@@ -73,7 +73,7 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Activity Graph" />
+  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical&border_radius=10"" />
 </p>
 
 <p align="center">
