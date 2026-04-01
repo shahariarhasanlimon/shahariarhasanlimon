@@ -42,14 +42,10 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=radical"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
 </p>
-
-(https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical) 
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
-
 ---
+
 ### 🧪 Featured Projects
 * **Deepfake Voice Detection:** AI research project utilizing deep learning to identify synthetic audio.
 * **RecipeHub:** A social platform for food enthusiasts featuring real-time updates and secure JWT auth.
