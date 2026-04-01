@@ -45,6 +45,10 @@ For me, code is a **tool for empowerment**. My approach focuses on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=radical"/>
 </p>
 
+(https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical) 
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+
 ---
 ### 🧪 Featured Projects
 * **Deepfake Voice Detection:** AI research project utilizing deep learning to identify synthetic audio.
