@@ -47,9 +47,9 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical&border_radius=10"/>
