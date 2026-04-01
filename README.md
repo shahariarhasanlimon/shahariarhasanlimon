@@ -38,14 +38,16 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 ### 📊 GitHub Insights
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Most Used Languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10&hide_border=false" alt="Overall GitHub Stats" />
-</div>
+### 📊 GitHub Insights
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="Overall GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" height="180" />
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
