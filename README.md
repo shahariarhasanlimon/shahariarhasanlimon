@@ -24,6 +24,9 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 | **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FD6C44?style=flat&logo=mistralai&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=flat&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-27272E?style=flat&logo=pinecone&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-FF4B4B?style=flat&logo=crewai&logoColor=white) |
 | **Tools & OS** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut&logoColor=white) |
 
+<p align="center">
+  <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
+
 ---
 ### 📈 Marketing & Growth Expertise
 Beyond the terminal, I help businesses scale through data-driven performance marketing.
@@ -37,14 +40,10 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 ---
 
 ### 📊 GitHub Insights
-<div align="center">
-<p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
 
 <p align="center">
   <img width="950px" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" height="220" />
 </p>
-</div>
 
 <p align="center">
   <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
