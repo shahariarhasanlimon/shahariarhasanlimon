@@ -37,6 +37,7 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 ---
 
 ### 📊 GitHub Insights
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahariarhasanlimon/shahariarhasanlimon/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
