@@ -48,15 +48,13 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 <p align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="Overall GitHub Stats" height="180" /> -->
-</p>
 
 <p align="center">
   <img width="900px" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarhasanlimon&theme=radical&border_radius=10" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
+  <img width="1000px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10" alt="Profile Details" />
 </p>
 
 <p align="center">
