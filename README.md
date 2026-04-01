@@ -42,7 +42,7 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
 </p>
 ---
 
