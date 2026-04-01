@@ -38,9 +38,9 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 ### 📊 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shahariarhasanlimon/shahariarhasanlimon/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
@@ -51,11 +51,11 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 </p>
 
 <p align="center">
-  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical"/>
+  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&border_radius=10""/>
 </p>
 
 <p align="center">
-  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+  <img width="900px" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical&border_radius=10"" />
 </p>
 
 ---
