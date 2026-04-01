@@ -34,6 +34,8 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 **Creative Strategy:** Merging technical insights with creative storytelling to lower CPA and boost ROAS.
 
+---
+
 ### 📊 GitHub Insights
 
 <p align="center">
