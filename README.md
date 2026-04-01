@@ -38,12 +38,8 @@ Beyond the terminal, I help businesses scale through data-driven performance mar
 
 ### 📊 GitHub Insights
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/shahariarhasanlimon/shahariarhasanlimon/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
