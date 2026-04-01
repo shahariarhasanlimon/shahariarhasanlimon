@@ -28,6 +28,11 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 
 ### 📊 GitHub Insights
 
+![Shahariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical)
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarhasanlimon&theme=radical&Icon=FFFFFF"  alt="GitHub Contribution"/>
+
+-------------
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Langs" height="180px" />
@@ -38,6 +43,12 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 </p>
 
 ---
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shahariarhasanlimon&theme=radical) 
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahariarhasanlimon&theme=redical" />
+
+-------------
 
 ### 🧪 Featured Projects
 * **Deepfake Voice Detection:** AI research project utilizing deep learning to identify synthetic audio.
