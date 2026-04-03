@@ -27,7 +27,7 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 
 <p align="center">
   <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 📈 Marketing & Growth Expertise
 Beyond the terminal, I help businesses scale through data-driven performance marketing.
