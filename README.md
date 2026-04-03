@@ -25,10 +25,16 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 | **Marketing & Tools** | ![Meta Ads](https://img.shields.io/badge/-Meta_Ads-0668E1?style=flat&logo=meta&logoColor=white) 
 | **Tools & OS** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut&logoColor=white) |
 
-<p align="center">
-  <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="center">
+  <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" /> -->
+  <div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" />
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+</div>
+  
 ---
+
 ### 📈 Marketing & Growth Expertise
 Beyond the terminal, I help businesses scale through data-driven performance marketing.
 
