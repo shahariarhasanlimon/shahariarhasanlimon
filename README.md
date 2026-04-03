@@ -27,11 +27,10 @@ For me, code is a **tool for empowerment**. My approach focuses on:
 
 <!-- <p align="center">
   <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" /> -->
-  <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" />
-  
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarhasanlimon&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahariarhasanlimon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="180" />
+</p>
   
 ---
 
